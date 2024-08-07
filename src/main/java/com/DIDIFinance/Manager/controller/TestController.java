@@ -1,4 +1,5 @@
-//TODO: Esta solo es una clase que nos ayudara a probar que la conexion esta bien hecha...
+//NOTA: Esta clase sera borrada en un futuro... servira como de ejemplo...
+
 package com.DIDIFinance.Manager.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
