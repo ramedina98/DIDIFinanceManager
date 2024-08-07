@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.sql.DataSource;
 import java.sql.Connection;
 
-
 @RestController
 public class TestController {
 
