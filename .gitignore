@@ -35,3 +35,4 @@ build/
 
 ### invoroment variable ###
 *.env
+env.properties
